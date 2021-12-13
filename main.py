@@ -11,7 +11,11 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
+<<<<<<< Updated upstream
     print_hi('PyCharm11111')
     print("0000----")
+=======
+    print_hi('PyCh2222arm')
+>>>>>>> Stashed changes
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
